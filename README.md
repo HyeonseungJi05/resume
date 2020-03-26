@@ -26,6 +26,11 @@
 ##### Language : Python, KoNLPy
 ##### 영화 댓글을 입력으로 받으면 댓글의 긍정(ex. 좋아요!)와 부정(ex. 재미없어요..)을 분석해줍니다. Naïve Bayes Classification를 기초로 형태소 분석기를 통해 형태소를 분리하여 입력값으로 넣었습니다.
 
+##### 3. 스포츠 영상의 추천서비스
+##### Language : Python, buffalo 등
+##### 미디어다음 스포츠영상을 추천하는 서비스의 성능 개선
+
+
 ## Computer Vision
 ##### Language : OpenCV
 ##### 1. 패턴인식 : OpenCV를 사용한 패턴인식을 해본 적이 있습니다.
